@@ -21,3 +21,5 @@ I'm a Sr. Web Programmer at the University of Richmond...
 <a href="https://github.com/althea1900">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=althea1900&layout=compact&theme=material-palenight" />
 </a><br>
+
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633131754708.png"/>
